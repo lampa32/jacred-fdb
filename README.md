@@ -7,7 +7,7 @@
 Установка одной командой (запускать от любого пользователя, при необходимости запросится sudo):
 
 ```bash
-curl -s https://raw.githubusercontent.com/pavelpikta/jacred-fdb/main/jacred.sh | bash
+curl -s https://raw.githubusercontent.com/lampa32/jacred-last/main/install.sh | bash
 ```
 
 Скрипт устанавливает приложение в `/home/jacred`, .NET 9.0, systemd-сервис `jacred`, cron для сохранения БД и при первом запуске по желанию скачивает готовую базу.
