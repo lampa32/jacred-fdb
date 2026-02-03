@@ -1,6 +1,6 @@
 # AI Документация
 
-[![DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/pavelpikta/jacred-fdb)
+[![DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/lampa32/jacred-last)
 
 ## Установка
 
